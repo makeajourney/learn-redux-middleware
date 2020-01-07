@@ -1,10 +1,10 @@
 import React from 'react';
-import CounterCountainer from './containers/CounterCountainer';
+import SampleContainer from './containers/SampleContainer';
 
 function App() {
   return (
     <div>
-      <CounterCountainer />
+      <SampleContainer />
     </div>
   );
 }
